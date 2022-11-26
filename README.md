@@ -30,4 +30,4 @@ $ pkg install git<br>
 $ git clone https://github.com/noe999x/ikzv2<br>
 $ termux-setup-storage <br>
 $ cd ikzv2<br>
-$ python run.py</br>
+$ python run.pyc</br>
