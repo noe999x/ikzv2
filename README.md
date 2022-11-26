@@ -23,11 +23,11 @@
 
 # Guide install
 
-$ pkg update && pkg upgrade
-$ pip install --upgrade pip
-$ pip install requests bs4 futures rich
-$ pkg install git
-$ git clone https://github.com/noe999x/ikzv2
-$ termux-setup-storage 
-$ cd ikzv2
-$ python run.py
+$ pkg update && pkg upgrade <br>
+$ pip install --upgrade pip<br>
+$ pip install requests bs4 futures rich<br>
+$ pkg install git<br>
+$ git clone https://github.com/noe999x/ikzv2<br>
+$ termux-setup-storage <br>
+$ cd ikzv2<br>
+$ python run.py</br>
