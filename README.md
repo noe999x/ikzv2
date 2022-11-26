@@ -20,3 +20,14 @@
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&labelColor=white)](https://www.twitter.com/bagaseka_apr)
 [![](https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=red&labelColor=white)](https://www.youtube.com/c/anonim404)
 <br><img title="piton" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+# Guide install
+
+$ pkg update && pkg upgrade
+$ pip install --upgrade pip
+$ pip install requests bs4 futures rich
+$ pkg install git
+$ git clone https://github.com/noe999x/ikzv2
+$ termux-setup-storage 
+$ cd ikzv2
+$ python run.py
